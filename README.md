@@ -1,16 +1,7 @@
-# ecommerce
+# Nike E-commerce UI (Flutter)
 
-A new Flutter project.
+This project includes core screens like product listings, a shopping cart, and a checkout page. While not all features are functional yet (e.g., search bar and some interactions), it offers a solid foundation for a simple, stylish shopping app interface.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1730389152](https://github.com/user-attachments/assets/47a83d5f-e9a7-4a1f-841a-c207566e7577)
+![Screenshot_1730389109](https://github.com/user-attachments/assets/8a9a5063-71a2-40bf-9482-c1f41592fbaf)
